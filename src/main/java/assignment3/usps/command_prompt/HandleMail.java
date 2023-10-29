@@ -1,10 +1,10 @@
 package assignment3.usps.command_prompt;
 
-import usps.mail_types.Flat;
-import usps.mail_types.Letter;
-import usps.mail_types.LiveBox;
-import usps.mail_types.RegularBox;
-import usps.mail_formats.Mail;
+import assignment3.usps.mail_types.Flat;
+import assignment3.usps.mail_types.Letter;
+import assignment3.usps.mail_types.LiveBox;
+import assignment3.usps.mail_types.RegularBox;
+import assignment3.usps.mail_formats.Mail;
 
 import java.util.ArrayList;
 

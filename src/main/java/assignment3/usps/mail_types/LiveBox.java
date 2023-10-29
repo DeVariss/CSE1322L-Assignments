@@ -1,6 +1,6 @@
 package assignment3.usps.mail_types;
 
-import usps.mail_formats.Box;
+import assignment3.usps.mail_formats.Box;
 
 public class LiveBox extends Box {
     private String animal = "";

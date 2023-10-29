@@ -1,6 +1,6 @@
 package assignment4.codec.driver_prompt;
 
-import codec.file_types.*;
+import assignment4.codec.file_types.*;
 
 import java.util.Scanner;
 import java.util.ArrayList;

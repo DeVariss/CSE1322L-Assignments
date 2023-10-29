@@ -1,7 +1,7 @@
 package assignment4.codec.file_types;
 
-import codec.standards.IAudioStandard;
-import codec.standards.IImageStandard;
+import assignment4.codec.standards.IAudioStandard;
+import assignment4.codec.standards.IImageStandard;
 
 public class Video extends Media implements IImageStandard, IAudioStandard {
     private String imageCodec;

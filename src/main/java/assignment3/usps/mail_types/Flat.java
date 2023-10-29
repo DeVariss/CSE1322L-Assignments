@@ -1,6 +1,6 @@
 package assignment3.usps.mail_types;
 
-import usps.mail_formats.Envelope;
+import assignment3.usps.mail_formats.Envelope;
 
 public class Flat extends Envelope {
     private String contents = "";

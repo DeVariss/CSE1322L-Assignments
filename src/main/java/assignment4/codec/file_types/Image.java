@@ -1,6 +1,6 @@
 package assignment4.codec.file_types;
 
-import codec.standards.IImageStandard;
+import assignment4.codec.standards.IImageStandard;
 
 public class Image extends Media implements IImageStandard {
     private String imageCodec;

@@ -1,6 +1,6 @@
 package assignment4.codec.file_types;
 
-import codec.standards.IAudioStandard;
+import assignment4.codec.standards.IAudioStandard;
 
 public class Music extends Media implements IAudioStandard {
     private String audioCodec;
