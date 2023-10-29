@@ -61,7 +61,7 @@ public class Driver
         String formatted =
                   "\nCase ID: %d"
                 + "\nCause of action: %s"
-                + "\nAmount in Controversy: $%f.2"
+                + "\nAmount in Controversy: $%.2f"
                 + "\nPlaintiff's Citizenship: %s"
                 + "\nDefendants Citizenship: %s"
                 + "\nOriginally filed in: %s"

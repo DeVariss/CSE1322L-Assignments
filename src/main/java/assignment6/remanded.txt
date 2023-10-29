@@ -1,7 +1,7 @@
 
 Case ID: 5
 Cause of action: Trespass to Chattel
-Amount in Controversy: $125000.000000.2
+Amount in Controversy: $125000.00
 Plaintiff's Citizenship: Hawaii
 Defendants Citizenship: Hawaii
 Originally filed in: Wyoming
@@ -10,7 +10,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 6
 Cause of action: Invasion of Privacy
-Amount in Controversy: $75000.000000.2
+Amount in Controversy: $75000.00
 Plaintiff's Citizenship: Washington
 Defendants Citizenship: Alaska
 Originally filed in: North Dakota
@@ -19,7 +19,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 7
 Cause of action: Conversion
-Amount in Controversy: $45000.000000.2
+Amount in Controversy: $45000.00
 Plaintiff's Citizenship: Oregon
 Defendants Citizenship: Kentucky
 Originally filed in: Indiana
@@ -28,7 +28,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 13
 Cause of action: Medical Malpractice
-Amount in Controversy: $105000.000000.2
+Amount in Controversy: $105000.00
 Plaintiff's Citizenship: North Dakota
 Defendants Citizenship: Iowa
 Originally filed in: Iowa
@@ -37,7 +37,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 14
 Cause of action: Medical Malpractice
-Amount in Controversy: $155000.000000.2
+Amount in Controversy: $155000.00
 Plaintiff's Citizenship: Georgia
 Defendants Citizenship: Nevada
 Originally filed in: Nevada
@@ -46,7 +46,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 25
 Cause of action: Invasion of Privacy
-Amount in Controversy: $50000.000000.2
+Amount in Controversy: $50000.00
 Plaintiff's Citizenship: Wisconsin
 Defendants Citizenship: Alabama
 Originally filed in: Alabama
@@ -55,7 +55,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 28
 Cause of action: Private Trespass
-Amount in Controversy: $170000.000000.2
+Amount in Controversy: $170000.00
 Plaintiff's Citizenship: Virginia
 Defendants Citizenship: Maine
 Originally filed in: Maine
@@ -64,7 +64,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 30
 Cause of action: Private Trespass
-Amount in Controversy: $130000.000000.2
+Amount in Controversy: $130000.00
 Plaintiff's Citizenship: Nebraska
 Defendants Citizenship: Connecticut
 Originally filed in: Connecticut
@@ -73,7 +73,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 31
 Cause of action: Private Trespass
-Amount in Controversy: $175000.000000.2
+Amount in Controversy: $175000.00
 Plaintiff's Citizenship: Louisiana
 Defendants Citizenship: Louisiana
 Originally filed in: South Dakota
@@ -82,7 +82,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 35
 Cause of action: Invasion of Privacy
-Amount in Controversy: $55000.000000.2
+Amount in Controversy: $55000.00
 Plaintiff's Citizenship: Tennessee
 Defendants Citizenship: Kansas
 Originally filed in: Kansas
@@ -91,7 +91,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 40
 Cause of action: Private Trespass
-Amount in Controversy: $55000.000000.2
+Amount in Controversy: $55000.00
 Plaintiff's Citizenship: Illinois
 Defendants Citizenship: Illinois
 Originally filed in: Wyoming
@@ -100,7 +100,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 41
 Cause of action: Private Trespass
-Amount in Controversy: $75000.000000.2
+Amount in Controversy: $75000.00
 Plaintiff's Citizenship: Louisiana
 Defendants Citizenship: Utah
 Originally filed in: Nevada
@@ -109,7 +109,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 43
 Cause of action: Negligence
-Amount in Controversy: $160000.000000.2
+Amount in Controversy: $160000.00
 Plaintiff's Citizenship: Oregon
 Defendants Citizenship: Oregon
 Originally filed in: Oregon
@@ -118,7 +118,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 44
 Cause of action: Invasion of Privacy
-Amount in Controversy: $70000.000000.2
+Amount in Controversy: $70000.00
 Plaintiff's Citizenship: Ohio
 Defendants Citizenship: Minnesota
 Originally filed in: Minnesota
@@ -127,7 +127,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 46
 Cause of action: Conversion
-Amount in Controversy: $45000.000000.2
+Amount in Controversy: $45000.00
 Plaintiff's Citizenship: Utah
 Defendants Citizenship: Iowa
 Originally filed in: Colorado
@@ -136,7 +136,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 47
 Cause of action: Battery
-Amount in Controversy: $70000.000000.2
+Amount in Controversy: $70000.00
 Plaintiff's Citizenship: Washington
 Defendants Citizenship: South Dakota
 Originally filed in: Nebraska
@@ -145,7 +145,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 49
 Cause of action: Conversion
-Amount in Controversy: $175000.000000.2
+Amount in Controversy: $175000.00
 Plaintiff's Citizenship: West Virginia
 Defendants Citizenship: South Carolina
 Originally filed in: South Carolina
@@ -154,7 +154,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 51
 Cause of action: Private Trespass
-Amount in Controversy: $140000.000000.2
+Amount in Controversy: $140000.00
 Plaintiff's Citizenship: Missouri
 Defendants Citizenship: Massachusetts
 Originally filed in: Massachusetts
@@ -163,7 +163,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 53
 Cause of action: Battery
-Amount in Controversy: $65000.000000.2
+Amount in Controversy: $65000.00
 Plaintiff's Citizenship: Massachusetts
 Defendants Citizenship: New Mexico
 Originally filed in: New Mexico
@@ -172,7 +172,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 57
 Cause of action: Battery
-Amount in Controversy: $40000.000000.2
+Amount in Controversy: $40000.00
 Plaintiff's Citizenship: Rhode Island
 Defendants Citizenship: New Hampshire
 Originally filed in: West Virginia
@@ -181,7 +181,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 58
 Cause of action: Invasion of Privacy
-Amount in Controversy: $40000.000000.2
+Amount in Controversy: $40000.00
 Plaintiff's Citizenship: Kansas
 Defendants Citizenship: Wyoming
 Originally filed in: Texas
@@ -190,7 +190,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 60
 Cause of action: Invasion of Privacy
-Amount in Controversy: $140000.000000.2
+Amount in Controversy: $140000.00
 Plaintiff's Citizenship: Washington
 Defendants Citizenship: New Hampshire
 Originally filed in: New Hampshire
@@ -199,7 +199,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 64
 Cause of action: Battery
-Amount in Controversy: $185000.000000.2
+Amount in Controversy: $185000.00
 Plaintiff's Citizenship: Oklahoma
 Defendants Citizenship: Oklahoma
 Originally filed in: Ohio
@@ -208,7 +208,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 66
 Cause of action: Private Trespass
-Amount in Controversy: $145000.000000.2
+Amount in Controversy: $145000.00
 Plaintiff's Citizenship: Louisiana
 Defendants Citizenship: Missouri
 Originally filed in: Missouri
@@ -217,7 +217,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 67
 Cause of action: Battery
-Amount in Controversy: $45000.000000.2
+Amount in Controversy: $45000.00
 Plaintiff's Citizenship: Connecticut
 Defendants Citizenship: Vermont
 Originally filed in: Kentucky
@@ -226,7 +226,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 69
 Cause of action: Conversion
-Amount in Controversy: $70000.000000.2
+Amount in Controversy: $70000.00
 Plaintiff's Citizenship: Florida
 Defendants Citizenship: North Carolina
 Originally filed in: Wisconsin
@@ -235,7 +235,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 71
 Cause of action: Invasion of Privacy
-Amount in Controversy: $75000.000000.2
+Amount in Controversy: $75000.00
 Plaintiff's Citizenship: Georgia
 Defendants Citizenship: Virginia
 Originally filed in: Vermont
@@ -244,7 +244,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 73
 Cause of action: Trespass to Chattel
-Amount in Controversy: $65000.000000.2
+Amount in Controversy: $65000.00
 Plaintiff's Citizenship: Maryland
 Defendants Citizenship: Missouri
 Originally filed in: Missouri
@@ -253,7 +253,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 76
 Cause of action: Negligence
-Amount in Controversy: $160000.000000.2
+Amount in Controversy: $160000.00
 Plaintiff's Citizenship: Minnesota
 Defendants Citizenship: Alaska
 Originally filed in: Alaska
@@ -262,7 +262,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 83
 Cause of action: Invasion of Privacy
-Amount in Controversy: $75000.000000.2
+Amount in Controversy: $75000.00
 Plaintiff's Citizenship: Washington
 Defendants Citizenship: Wyoming
 Originally filed in: Vermont
@@ -271,7 +271,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 84
 Cause of action: Trespass to Chattel
-Amount in Controversy: $60000.000000.2
+Amount in Controversy: $60000.00
 Plaintiff's Citizenship: Minnesota
 Defendants Citizenship: Mississippi
 Originally filed in: South Dakota
@@ -280,7 +280,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 89
 Cause of action: Negligence
-Amount in Controversy: $190000.000000.2
+Amount in Controversy: $190000.00
 Plaintiff's Citizenship: Massachusetts
 Defendants Citizenship: Massachusetts
 Originally filed in: Nevada
@@ -289,7 +289,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 90
 Cause of action: Conversion
-Amount in Controversy: $140000.000000.2
+Amount in Controversy: $140000.00
 Plaintiff's Citizenship: Hawaii
 Defendants Citizenship: Maine
 Originally filed in: Maine
@@ -298,7 +298,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 91
 Cause of action: Negligence
-Amount in Controversy: $130000.000000.2
+Amount in Controversy: $130000.00
 Plaintiff's Citizenship: Wyoming
 Defendants Citizenship: Wyoming
 Originally filed in: Kentucky
@@ -307,7 +307,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 96
 Cause of action: Invasion of Privacy
-Amount in Controversy: $90000.000000.2
+Amount in Controversy: $90000.00
 Plaintiff's Citizenship: Nevada
 Defendants Citizenship: Michigan
 Originally filed in: Michigan
@@ -316,7 +316,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 99
 Cause of action: Trespass to Chattel
-Amount in Controversy: $45000.000000.2
+Amount in Controversy: $45000.00
 Plaintiff's Citizenship: Wisconsin
 Defendants Citizenship: New Hampshire
 Originally filed in: New Jersey
@@ -325,7 +325,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 103
 Cause of action: Negligence
-Amount in Controversy: $195000.000000.2
+Amount in Controversy: $195000.00
 Plaintiff's Citizenship: Rhode Island
 Defendants Citizenship: Rhode Island
 Originally filed in: Kentucky
@@ -334,7 +334,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 109
 Cause of action: Medical Malpractice
-Amount in Controversy: $160000.000000.2
+Amount in Controversy: $160000.00
 Plaintiff's Citizenship: New York
 Defendants Citizenship: Maryland
 Originally filed in: Maryland
@@ -343,7 +343,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 113
 Cause of action: Conversion
-Amount in Controversy: $50000.000000.2
+Amount in Controversy: $50000.00
 Plaintiff's Citizenship: Missouri
 Defendants Citizenship: Louisiana
 Originally filed in: Louisiana
@@ -352,7 +352,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 114
 Cause of action: Trespass to Chattel
-Amount in Controversy: $190000.000000.2
+Amount in Controversy: $190000.00
 Plaintiff's Citizenship: Pennsylvania
 Defendants Citizenship: New Jersey
 Originally filed in: New Jersey
@@ -361,7 +361,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 116
 Cause of action: Private Trespass
-Amount in Controversy: $165000.000000.2
+Amount in Controversy: $165000.00
 Plaintiff's Citizenship: Connecticut
 Defendants Citizenship: Connecticut
 Originally filed in: Vermont
@@ -370,7 +370,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 119
 Cause of action: Private Trespass
-Amount in Controversy: $55000.000000.2
+Amount in Controversy: $55000.00
 Plaintiff's Citizenship: Hawaii
 Defendants Citizenship: Maryland
 Originally filed in: Oklahoma
@@ -379,7 +379,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 121
 Cause of action: Battery
-Amount in Controversy: $55000.000000.2
+Amount in Controversy: $55000.00
 Plaintiff's Citizenship: Wisconsin
 Defendants Citizenship: New Mexico
 Originally filed in: Colorado
@@ -388,7 +388,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 122
 Cause of action: Medical Malpractice
-Amount in Controversy: $60000.000000.2
+Amount in Controversy: $60000.00
 Plaintiff's Citizenship: Rhode Island
 Defendants Citizenship: Delaware
 Originally filed in: Montana
@@ -397,7 +397,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 124
 Cause of action: Negligence
-Amount in Controversy: $40000.000000.2
+Amount in Controversy: $40000.00
 Plaintiff's Citizenship: Nevada
 Defendants Citizenship: Nevada
 Originally filed in: Texas
@@ -406,7 +406,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 128
 Cause of action: Conversion
-Amount in Controversy: $45000.000000.2
+Amount in Controversy: $45000.00
 Plaintiff's Citizenship: New Mexico
 Defendants Citizenship: New Mexico
 Originally filed in: New Jersey
@@ -415,7 +415,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 129
 Cause of action: Medical Malpractice
-Amount in Controversy: $40000.000000.2
+Amount in Controversy: $40000.00
 Plaintiff's Citizenship: Texas
 Defendants Citizenship: North Dakota
 Originally filed in: Colorado
@@ -424,7 +424,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 130
 Cause of action: Medical Malpractice
-Amount in Controversy: $130000.000000.2
+Amount in Controversy: $130000.00
 Plaintiff's Citizenship: Ohio
 Defendants Citizenship: Ohio
 Originally filed in: Ohio
@@ -433,7 +433,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 131
 Cause of action: Negligence
-Amount in Controversy: $65000.000000.2
+Amount in Controversy: $65000.00
 Plaintiff's Citizenship: Arizona
 Defendants Citizenship: California
 Originally filed in: Virginia
@@ -442,7 +442,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 132
 Cause of action: Medical Malpractice
-Amount in Controversy: $70000.000000.2
+Amount in Controversy: $70000.00
 Plaintiff's Citizenship: Kentucky
 Defendants Citizenship: Kentucky
 Originally filed in: Oregon
@@ -451,7 +451,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 133
 Cause of action: Battery
-Amount in Controversy: $80000.000000.2
+Amount in Controversy: $80000.00
 Plaintiff's Citizenship: Michigan
 Defendants Citizenship: Michigan
 Originally filed in: Wisconsin
@@ -460,7 +460,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 136
 Cause of action: Conversion
-Amount in Controversy: $75000.000000.2
+Amount in Controversy: $75000.00
 Plaintiff's Citizenship: Montana
 Defendants Citizenship: Alabama
 Originally filed in: Oklahoma
@@ -469,7 +469,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 137
 Cause of action: Battery
-Amount in Controversy: $50000.000000.2
+Amount in Controversy: $50000.00
 Plaintiff's Citizenship: Georgia
 Defendants Citizenship: Virginia
 Originally filed in: Wyoming
@@ -478,7 +478,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 139
 Cause of action: Private Trespass
-Amount in Controversy: $75000.000000.2
+Amount in Controversy: $75000.00
 Plaintiff's Citizenship: Ohio
 Defendants Citizenship: Delaware
 Originally filed in: South Carolina
@@ -487,7 +487,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 141
 Cause of action: Trespass to Chattel
-Amount in Controversy: $120000.000000.2
+Amount in Controversy: $120000.00
 Plaintiff's Citizenship: South Dakota
 Defendants Citizenship: Mississippi
 Originally filed in: Mississippi
@@ -496,7 +496,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 142
 Cause of action: Private Trespass
-Amount in Controversy: $155000.000000.2
+Amount in Controversy: $155000.00
 Plaintiff's Citizenship: Missouri
 Defendants Citizenship: Michigan
 Originally filed in: Michigan
@@ -505,7 +505,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 145
 Cause of action: Medical Malpractice
-Amount in Controversy: $65000.000000.2
+Amount in Controversy: $65000.00
 Plaintiff's Citizenship: Indiana
 Defendants Citizenship: Arizona
 Originally filed in: Montana
@@ -514,7 +514,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 147
 Cause of action: Negligence
-Amount in Controversy: $105000.000000.2
+Amount in Controversy: $105000.00
 Plaintiff's Citizenship: New York
 Defendants Citizenship: New York
 Originally filed in: Missouri
@@ -523,7 +523,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 153
 Cause of action: Battery
-Amount in Controversy: $200000.000000.2
+Amount in Controversy: $200000.00
 Plaintiff's Citizenship: Alaska
 Defendants Citizenship: Alaska
 Originally filed in: Tennessee
@@ -532,7 +532,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 154
 Cause of action: Trespass to Chattel
-Amount in Controversy: $45000.000000.2
+Amount in Controversy: $45000.00
 Plaintiff's Citizenship: Tennessee
 Defendants Citizenship: Nebraska
 Originally filed in: Nebraska
@@ -541,7 +541,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 155
 Cause of action: Conversion
-Amount in Controversy: $60000.000000.2
+Amount in Controversy: $60000.00
 Plaintiff's Citizenship: Oregon
 Defendants Citizenship: Kansas
 Originally filed in: Arizona
@@ -550,7 +550,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 157
 Cause of action: Conversion
-Amount in Controversy: $40000.000000.2
+Amount in Controversy: $40000.00
 Plaintiff's Citizenship: Georgia
 Defendants Citizenship: Ohio
 Originally filed in: Virginia
@@ -559,7 +559,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 160
 Cause of action: Medical Malpractice
-Amount in Controversy: $55000.000000.2
+Amount in Controversy: $55000.00
 Plaintiff's Citizenship: West Virginia
 Defendants Citizenship: Washington
 Originally filed in: Tennessee
@@ -568,7 +568,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 161
 Cause of action: Negligence
-Amount in Controversy: $75000.000000.2
+Amount in Controversy: $75000.00
 Plaintiff's Citizenship: North Carolina
 Defendants Citizenship: Michigan
 Originally filed in: Vermont
@@ -577,7 +577,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 162
 Cause of action: Negligence
-Amount in Controversy: $155000.000000.2
+Amount in Controversy: $155000.00
 Plaintiff's Citizenship: Arkansas
 Defendants Citizenship: Arkansas
 Originally filed in: Alaska
@@ -586,7 +586,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 163
 Cause of action: Battery
-Amount in Controversy: $50000.000000.2
+Amount in Controversy: $50000.00
 Plaintiff's Citizenship: Indiana
 Defendants Citizenship: Arkansas
 Originally filed in: Minnesota
@@ -595,7 +595,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 167
 Cause of action: Trespass to Chattel
-Amount in Controversy: $130000.000000.2
+Amount in Controversy: $130000.00
 Plaintiff's Citizenship: Rhode Island
 Defendants Citizenship: Connecticut
 Originally filed in: Connecticut
@@ -604,7 +604,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 168
 Cause of action: Trespass to Chattel
-Amount in Controversy: $145000.000000.2
+Amount in Controversy: $145000.00
 Plaintiff's Citizenship: Texas
 Defendants Citizenship: Arkansas
 Originally filed in: Arkansas
@@ -613,7 +613,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 171
 Cause of action: Conversion
-Amount in Controversy: $45000.000000.2
+Amount in Controversy: $45000.00
 Plaintiff's Citizenship: Rhode Island
 Defendants Citizenship: New Mexico
 Originally filed in: North Carolina
@@ -622,7 +622,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 173
 Cause of action: Negligence
-Amount in Controversy: $110000.000000.2
+Amount in Controversy: $110000.00
 Plaintiff's Citizenship: Nevada
 Defendants Citizenship: New Jersey
 Originally filed in: New Jersey
@@ -631,7 +631,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 174
 Cause of action: Private Trespass
-Amount in Controversy: $50000.000000.2
+Amount in Controversy: $50000.00
 Plaintiff's Citizenship: Florida
 Defendants Citizenship: Indiana
 Originally filed in: Alabama
@@ -640,7 +640,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 176
 Cause of action: Trespass to Chattel
-Amount in Controversy: $50000.000000.2
+Amount in Controversy: $50000.00
 Plaintiff's Citizenship: New Jersey
 Defendants Citizenship: New Jersey
 Originally filed in: Kentucky
@@ -649,7 +649,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 177
 Cause of action: Medical Malpractice
-Amount in Controversy: $125000.000000.2
+Amount in Controversy: $125000.00
 Plaintiff's Citizenship: Alaska
 Defendants Citizenship: Arizona
 Originally filed in: Arizona
@@ -658,7 +658,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 182
 Cause of action: Private Trespass
-Amount in Controversy: $105000.000000.2
+Amount in Controversy: $105000.00
 Plaintiff's Citizenship: Georgia
 Defendants Citizenship: Montana
 Originally filed in: Montana
@@ -667,7 +667,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 183
 Cause of action: Private Trespass
-Amount in Controversy: $75000.000000.2
+Amount in Controversy: $75000.00
 Plaintiff's Citizenship: Mississippi
 Defendants Citizenship: Vermont
 Originally filed in: New Jersey
@@ -676,7 +676,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 184
 Cause of action: Trespass to Chattel
-Amount in Controversy: $115000.000000.2
+Amount in Controversy: $115000.00
 Plaintiff's Citizenship: Alabama
 Defendants Citizenship: Alabama
 Originally filed in: Wisconsin
@@ -685,7 +685,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 187
 Cause of action: Battery
-Amount in Controversy: $65000.000000.2
+Amount in Controversy: $65000.00
 Plaintiff's Citizenship: Maine
 Defendants Citizenship: North Dakota
 Originally filed in: Pennsylvania
@@ -694,7 +694,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 189
 Cause of action: Conversion
-Amount in Controversy: $65000.000000.2
+Amount in Controversy: $65000.00
 Plaintiff's Citizenship: Alabama
 Defendants Citizenship: Hawaii
 Originally filed in: North Dakota
@@ -703,7 +703,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 190
 Cause of action: Medical Malpractice
-Amount in Controversy: $145000.000000.2
+Amount in Controversy: $145000.00
 Plaintiff's Citizenship: Alaska
 Defendants Citizenship: Maryland
 Originally filed in: Maryland
@@ -712,7 +712,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 193
 Cause of action: Medical Malpractice
-Amount in Controversy: $55000.000000.2
+Amount in Controversy: $55000.00
 Plaintiff's Citizenship: Georgia
 Defendants Citizenship: New Jersey
 Originally filed in: California
@@ -721,7 +721,7 @@ Reason for remand: Amount in controversy less than or equal to $75000
 ==============================
 Case ID: 194
 Cause of action: Medical Malpractice
-Amount in Controversy: $190000.000000.2
+Amount in Controversy: $190000.00
 Plaintiff's Citizenship: Wyoming
 Defendants Citizenship: Wyoming
 Originally filed in: Wyoming
@@ -730,7 +730,7 @@ Reason for remand: Lack of Diversity
 ==============================
 Case ID: 198
 Cause of action: Medical Malpractice
-Amount in Controversy: $160000.000000.2
+Amount in Controversy: $160000.00
 Plaintiff's Citizenship: North Dakota
 Defendants Citizenship: Vermont
 Originally filed in: Vermont
@@ -739,7 +739,7 @@ Reason for remand: No prejudice through diversity
 ==============================
 Case ID: 200
 Cause of action: Invasion of Privacy
-Amount in Controversy: $155000.000000.2
+Amount in Controversy: $155000.00
 Plaintiff's Citizenship: Rhode Island
 Defendants Citizenship: Rhode Island
 Originally filed in: Arizona
