@@ -1,0 +1,3 @@
+1) Use one thread to take arguments and send to driver
+2) Serialize dispatcher object and deserialize
+3) Use networking to transfer dispatcher
